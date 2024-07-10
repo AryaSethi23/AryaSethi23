@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/khkoo07nm9](https://flowcv.com/resume/khkoo07nm9)
 
-- ⚡ Fun fact **Remember when you thought 1080p was the height of HD? Now we have 4K, 8K, and who knows what's next? It's like pixels are on a growth spurt!**
+- ⚡ Fun fact **Some pixel artists sneak tiny, humorous details into their work that are only visible at maximum zoom — a secret world of pixelated inside jokes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
