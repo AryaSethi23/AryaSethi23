@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **various aspects of Web Designing(UI/UX), Graphics and Blender.**
 
-- 👨‍💻 All of my projects are available at [https://assets-two.vercel.app/](https://assets-two.vercel.app/)
+- 👨‍💻 Few of my projects are available at [https://assets-two.vercel.app/](https://assets-two.vercel.app/)
 
 - 💬 Ask me about **Web Designing(UI/UX), Graphics, Frontend Development, Application Development and Blender.**
 
